@@ -1,0 +1,27 @@
+body, html {
+  height: 100%;
+}
+.container {
+ 
+  background-image: linear-gradient(#fff,#000);
+
+  
+  height: 100%;
+
+
+  background-position: center;
+  background-repeat: repeat-y;
+  background-size: cover;
+}
+
+p {
+ white-space: nowrap;
+ text-overflow: ellipsis;
+ overflow: hidden;
+}
+
+h4 {
+ white-space: nowrap;
+ text-overflow: ellipsis;
+ overflow: hidden;
+}
